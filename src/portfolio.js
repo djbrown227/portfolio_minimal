@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://www.linkedin.com/in/daniel-brown-203288146/',
+  "homepage": "https://djbrown227.github.io/portfolio_minimal",
   title: 'DB.',
 }
 
@@ -49,16 +49,16 @@ const projects = [
     description:
       'A collection of interactive Tableau dashboards showcasing data-driven insights across topics like urban issues, global trends, and sports. Each project combines clean design with clear storytelling to highlight patterns, outliers, and key takeaways.',
     stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://public.tableau.com/app/profile/daniel.brown5983/vizzes',
+    livePreview: 'https://public.tableau.com/app/profile/daniel.brown5983/vizzes',
   },
   {
     name: 'Project 5 - Data Stories in Motion',
     description:
       'This Instagram page transforms Tableau dashboards into dynamic scrollytelling stories—bringing data to life with animated charts, bite-sized insights, and bold visuals. Each post distills complex topics into clear, compelling narratives designed for mobile-first viewing.',
     stack: ['Tableau', 'Python', 'Capcut', 'GIMP'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://www.instagram.com/tuai.rim/',
+    livePreview: 'https://www.instagram.com/tuai.rim/',
   },
   {
     name: 'Project 6',
