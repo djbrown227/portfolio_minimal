@@ -25,24 +25,24 @@ const projects = [
     description:
       'I ran an A/B test comparing UPS Ground and SurePost that saved Grady’s Cold Brew $15,000–$20,000 annually on shipping costs. By showing no significant difference in delivery success rates, I was able to justify switching to the more cost-effective SurePost service.',
     stack: ['Python', 'Jupyter Notebook', 'SQL'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/djbrown227/shipping-ab-test',
+    livePreview: 'https://djbrown227.github.io/shipping-ab-test/',
   },
   {
     name: 'Project 2 - Anomaly Detection for Citi Bike Station Flipping',
     description:
       'I built a Python and Go-based tool to detect anomalies in Citi Bike station data, helping identify suspicious patterns like station flipping. By monitoring real-time bike availability and flagging irregular activity, the system improves operational oversight and protects against reward program abuse.',
     stack: ['Python', 'Go', 'Tableau'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/djbrown227/citibike_anomaly_detection',
+    livePreview: 'https://djbrown227.github.io/citibike_anomaly_detection/',
   },
   {
     name: 'Project 3 - Optimized Seating Arrangements with Simulated Annealing',
     description:
       'This web app optimizes seating arrangements using the simulated annealing algorithm, maximizing friendship scores based on uploaded data.',
     stack: ['Python', 'HTML', 'CSS'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/djbrown227/seating_optimizer_app',
+    livePreview: 'https://djbrown227.github.io/seating_optimizer_app/',
   },
   {
     name: 'Project 4 - Tableau Portfolio: Visual Data Stories',
@@ -82,8 +82,8 @@ const skills = [
   'Google Cloud',
   'Basic Full Stack Developement',
   'Problem Solving',
-  'SvelteKit',
-  'MYSQL',
+  'Web Scraping',
+  '',
   'Project Management',
 ]
 
