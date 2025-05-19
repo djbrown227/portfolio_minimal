@@ -40,7 +40,7 @@ const projects = [
     name: 'Project 3 - Optimized Seating Arrangements with Simulated Annealing',
     description:
       'This web app optimizes seating arrangements using the simulated annealing algorithm, maximizing friendship scores based on uploaded data.',
-    stack: ['Python', 'HTML', 'CSS'],
+    stack: ['Python','Flask', 'HTML', 'CSS'],
     sourceCode: 'https://github.com/djbrown227/seating_optimizer_app',
     livePreview: 'https://djbrown227.github.io/seating_optimizer_app/',
   },
@@ -48,25 +48,9 @@ const projects = [
     name: 'Project 4 - Tableau Portfolio: Visual Data Stories',
     description:
       'A collection of interactive Tableau dashboards showcasing data-driven insights across topics like urban issues, global trends, and sports. Each project combines clean design with clear storytelling to highlight patterns, outliers, and key takeaways.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Tableau', 'Python'],
     sourceCode: 'https://public.tableau.com/app/profile/daniel.brown5983/vizzes',
     livePreview: 'https://public.tableau.com/app/profile/daniel.brown5983/vizzes',
-  },
-  {
-    name: 'Project 5 - Data Stories in Motion',
-    description:
-      'This Instagram page transforms Tableau dashboards into dynamic scrollytelling stories—bringing data to life with animated charts, bite-sized insights, and bold visuals. Each post distills complex topics into clear, compelling narratives designed for mobile-first viewing.',
-    stack: ['Tableau', 'Python', 'Capcut', 'GIMP'],
-    sourceCode: 'https://www.instagram.com/tuai.rim/',
-    livePreview: 'https://www.instagram.com/tuai.rim/',
-  },
-  {
-    name: 'Project 6',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
   },
 ]
 
